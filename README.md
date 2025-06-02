@@ -1,5 +1,8 @@
 # STM32_Lithium_Batt_Monitor (V1.0)
 
+![image](https://github.com/user-attachments/assets/9f856c08-15f5-470d-a94d-47cddac84abd)
+
+
 ### Goal of the project
 To build a basic lithium battery monitoring system using STM32 (e.g., Nucleo board) that measures:
 1. Voltage
