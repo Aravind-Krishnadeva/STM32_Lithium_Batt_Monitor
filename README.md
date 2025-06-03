@@ -11,9 +11,21 @@ To build a basic lithium battery monitoring system using STM32 (e.g., Nucleo boa
 4. Sets foundation for AI-powered SoC/SoH estimation later
 
 ## Functional Requirements
-- [x] Measure battery voltage via ADC
-- [x] Measure current using ACS712
+- [ ] Measure battery voltage via ADC
+- [ ] Measure current using ACS712
 - [ ] Estimate battery state of charge
 - [ ] Log data to serial
 - [ ] Add low-battery warning
+      
+## Component list / bill of materials 
+1. STM32 Nucleo controller
+2. ACS712 current sensor
+3. OLED I2C display module
+4. Resistors for voltage divider circuitry
+5. 18650 lithium ion battery
+6. Battery holder
+7. Power ON/OFF switch
 
+## Software requirements
+1. STM32 CubeIDE for programming
+   
